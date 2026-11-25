@@ -34,6 +34,7 @@ button{
 }
 a{
 	appearance: none;
+	text-decoration: none;
 	color: #1877f2;
 }
 .signup{
